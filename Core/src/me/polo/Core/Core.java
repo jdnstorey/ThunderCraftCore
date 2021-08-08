@@ -1,12 +1,12 @@
-package me.BlackThunder.Core;
+package me.polo.Core;
 
-import me.BlackThunder.Core.admin.ClearChat;
-import me.BlackThunder.Core.admin.HealFeed;
-import me.BlackThunder.Core.admin.Freeze;
-import me.BlackThunder.Core.challenges.Challenges;
-import me.BlackThunder.Core.challenges.Ice;
-import me.BlackThunder.Core.trades.TradeCommand;
-import me.BlackThunder.Core.trades.TradeListener;
+import me.polo.Core.admin.ClearChat;
+import me.polo.Core.admin.HealFeed;
+import me.polo.Core.admin.Freeze;
+import me.polo.Core.challenges.Challenges;
+import me.polo.Core.challenges.Ice;
+import me.polo.Core.trades.TradeCommand;
+import me.polo.Core.trades.TradeListener;
 import org.bukkit.ChatColor;
 import org.bukkit.plugin.java.JavaPlugin;
 

@@ -1,8 +1,8 @@
-name: Core
+name: ThunderCraftCore
 version: 1.1
-author: BlackThunder
-main: me.BlackThunder.Core.Core
-api-version: 1.15
+author: Polo
+main: me.polo.Core.Core
+api-version: 1.17
 
 commands:
   challenges:

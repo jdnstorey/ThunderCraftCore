@@ -1,6 +1,6 @@
-package me.BlackThunder.Core.challenges;
+package me.polo.Core.challenges;
 
-import me.BlackThunder.Core.Core;
+import me.polo.Core.Core;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

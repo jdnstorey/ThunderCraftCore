@@ -1,4 +1,4 @@
-package me.BlackThunder.Core.trades;
+package me.polo.Core.trades;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

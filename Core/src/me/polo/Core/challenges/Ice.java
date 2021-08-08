@@ -1,4 +1,4 @@
-package me.BlackThunder.Core.challenges;
+package me.polo.Core.challenges;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

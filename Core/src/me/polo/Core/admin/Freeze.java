@@ -1,4 +1,4 @@
-package me.BlackThunder.Core.admin;
+package me.polo.Core.admin;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
